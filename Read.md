@@ -11,13 +11,13 @@
 # 今日交期中作業4/12<br>
 
 # 非常緊張
-# @段落縮行<br>
+
 
 ## 希望順利
-# @段落縮行<br>
+
 
 ### 分數美麗
-# @段落縮行<br>
+
 
 
 
@@ -58,5 +58,13 @@
 </blockquote></details>
 <br><br>
 
+#### ChatGPT 介紹 <br>
+<a href="https://www.youtube.com/watch?v=D8VEhcPeSlc"><img src="![image](https://github.com/tuliiip/Course/assets/161834555/9240fcf2-6397-46f6-a21a-1582253e7325)" 
+alt="aespa 에스파 'Drama' MV " width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
 
+<br>
+https://www.youtube.com/watch?v=D8VEhcPeSlc
+
+![image](https://github.com/tuliiip/Course/assets/161834555/9240fcf2-6397-46f6-a21a-1582253e7325)
 
