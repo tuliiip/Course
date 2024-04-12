@@ -37,7 +37,7 @@
 ![這是一張圖片.](https://shoplineimg.com/5670feec039055febe00003a/651d2eb435140d2302b85085/800x.jpg?)
 
 
-  以上語法呈現結果如下<br>
+  下面點開會有小驚喜<br>
 
 <details><summary> 這是一顆文字洋蔥 </summary><blockquote>
 <details><summary> 第一層 </summary><blockquote>
