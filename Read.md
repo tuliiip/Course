@@ -59,12 +59,11 @@
 <br><br>
 
 #### ChatGPT 介紹 <br>
-<a href="https://www.youtube.com/watch?v=D8VEhcPeSlc"><img src="![image](https://github.com/tuliiip/Course/assets/161834555/9240fcf2-6397-46f6-a21a-1582253e7325)" 
+<a href="https://www.youtube.com/watch?v=D8VEhcPeSlc"><img src="http://img.youtube.com/vi/D8VEhcPeSlc/0.jpg" 
 alt="aespa 에스파 'Drama' MV " width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
 
-<br>
-https://www.youtube.com/watch?v=D8VEhcPeSlc
 
-![image](https://github.com/tuliiip/Course/assets/161834555/9240fcf2-6397-46f6-a21a-1582253e7325)
+
+<br>
 
